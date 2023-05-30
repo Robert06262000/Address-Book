@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Address Book", "Address Book.pyproj", "{621785B3-CC86-4AB8-86C4-DD3FA3BCBB48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{621785B3-CC86-4AB8-86C4-DD3FA3BCBB48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{621785B3-CC86-4AB8-86C4-DD3FA3BCBB48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36599944-A06A-43E0-AAF4-BEB4A6D0B435}
+	EndGlobalSection
+EndGlobal
